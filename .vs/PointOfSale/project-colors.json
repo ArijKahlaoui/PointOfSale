@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "dae2f87a-c5d7-427e-8f62-abecdda45716": {
+      "ProjectGuid": "dae2f87a-c5d7-427e-8f62-abecdda45716",
+      "DisplayName": "PointOfSale",
+      "ColorIndex": 0
+    },
+    "2baeb6c2-42f5-40b8-a171-1b36af64f42b": {
+      "ProjectGuid": "2baeb6c2-42f5-40b8-a171-1b36af64f42b",
+      "DisplayName": "POS",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
